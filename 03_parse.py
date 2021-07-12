@@ -5,9 +5,9 @@ import json
 
 
 # brands = [303,304,307,"312,316",326,"321,322",337,329,328,349,371,376,413,422,618,367,459,394,399,381,440,436,445,404,408,409,390,385,622,491,486,500,537,617]
-brands = [362]
-for brand in brands[:1]:
-    with open(f'./crawl_result/{brand}_21.html', encoding='utf-8') as f:
+brands = [367, 376, 459]
+for brand in brands:
+    with open(f'./crawl_result/{brand}_20.html', encoding='utf-8') as f:
         bsobj = BeautifulSoup(f.read(), 'html.parser')
 
     tb = bsobj.find('table', {'class':'recordTable'})
@@ -39,5 +39,5 @@ for brand in brands[:1]:
                     name = tr.find('td', {'class':'title'}).find('a').find('img')['alt'].strip()
                 except:
                     pass
-        with open(f'./{brand}_21.json', 'w+') as f:
+        with open(f'./{brand}_20.json', 'w+') as f:
             f.write(json.dumps(res))

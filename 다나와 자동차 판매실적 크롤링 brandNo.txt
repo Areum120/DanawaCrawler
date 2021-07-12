@@ -1,0 +1,8 @@
+korea_brand = [303,304,307,"312,316",326,"321,322",337,329,328]
+europe_brand = [362,349,371,376,413,422,618,367,459,394,399,381,440,436,445,404,408,409,390,385,622]
+japanchina_brand = [491,486,500,537,617]
+
+367, 459
+
+git remote remove origin
+git remote add origin https://Areum120:xhfl3551@github.com/DanawaCrawler

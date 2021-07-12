@@ -1,0 +1,150 @@
+﻿,car_name,sub_name,quentity
+0,5 Series,520i,"5,141"
+1,5 Series,520d,"2,849"
+2,5 Series,530i,"2,726"
+3,5 Series,530i xDrive,"1,741"
+4,5 Series,520d xDrive,"1,307"
+5,5 Series,530e,"1,192"
+6,5 Series,540i xDrive,239
+7,5 Series,M550d xDrive,37
+8,5 Series,M550d xDrive,37
+9,5 Series,520i,"1,807"
+10,5 Series,530i,"1,169"
+11,5 Series,530e,926
+12,5 Series,530i xDrive,634
+13,5 Series,523d,469
+14,5 Series,523d xDrive,254
+15,5 Series,540i xDrive,88
+16,5 Series,M550i xDrive,64
+17,5 Series,M550i xDrive,64
+18,3 Series,320i,"2,201"
+19,3 Series,320d,"1,120"
+20,3 Series,M340i,452
+21,3 Series,330e,322
+22,3 Series,320d xDrive,198
+23,3 Series,330i,142
+24,3 Series,320d Touring,111
+25,3 Series,330i xDrive,84
+26,3 Series,320i Touring,79
+27,3 Series,M340i xDrive Touring,28
+28,3 Series,M340i xDrive Touring,28
+29,X4,20d,"1,823"
+30,X4,20i,"1,663"
+31,X4,M40i,112
+32,X4,30d,64
+33,X4,M40d,35
+34,X4,M40d,35
+35,X3,20d,"1,671"
+36,X3,20i,"1,322"
+37,X3,30e,285
+38,X3,30d,190
+39,X3,M40i,110
+40,X3,M40i,110
+41,X5,30d,"2,258"
+42,X5,40i,689
+43,X5,45e,233
+44,X5,M50d,163
+45,X5,M50i,131
+46,X5,40d,82
+47,X5,40d,82
+48,3 Series,320d Gran Turismo,"2,401"
+49,3 Series,320d xDrive Gran Turismo,"1,011"
+50,3 Series,320d Touring,1
+51,3 Series,320d Touring,1
+52,X7,30d,"1,447"
+53,X7,40i,737
+54,X7,40d,207
+55,X7,M50i,164
+56,X7,M50d,114
+57,X7,M50d,114
+58,X6,30d,"1,675"
+59,X6,40i,601
+60,X6,M50i,139
+61,X6,M50d,88
+62,X6,40d,71
+63,X6,40d,71
+64,7 Series,740Li xDrive,726
+65,7 Series,730Ld xDrive,458
+66,7 Series,730d xDrive,292
+67,7 Series,740i,266
+68,7 Series,745Le,187
+69,7 Series,740d xDrive,180
+70,7 Series,745e,145
+71,7 Series,M760Li xDrive,85
+72,7 Series,740Ld xDrive,16
+73,7 Series,750Li xDrive,13
+74,7 Series,740e,1
+75,7 Series,740e,1
+76,6 Series,620d Gran Turismo,"1,108"
+77,6 Series,630i xDrive Gran Turismo,503
+78,6 Series,620d xDrive Gran Turismo,365
+79,6 Series,640i xDrive Gran Turismo,281
+80,6 Series,630d xDrive Gran Turismo,71
+81,6 Series,630d xDrive Gran Turismo,71
+82,X1,18d,877
+83,X1,20i,694
+84,X1,25i,10
+85,X1,25i,10
+86,1 Series,118d Urban,"1,274"
+87,1 Series,118d Urban,"1,274"
+88,4 Series,420d Gran Coupe,353
+89,4 Series,430i Convertible,228
+90,4 Series,420i Gran Coupe,218
+91,4 Series,420d xDrive Gran Coupe,210
+92,4 Series,430i Coupe,74
+93,4 Series,420i Coupe,44
+94,4 Series,420d Coupe,33
+95,4 Series,435d xDrive Gran Coupe,1
+96,4 Series,435d xDrive Gran Coupe,1
+97,2 Series Active Tourer,Active Tourer,964
+98,2 Series Active Tourer,Active Tourer,964
+99,6 Series,630i xDrive Gran Turismo,598
+100,6 Series,620d Gran Turismo,137
+101,6 Series,640i xDrive Gran Turismo,72
+102,6 Series,620d xDrive Gran Turismo,52
+103,6 Series,630d xDrive Gran Turismo,47
+104,6 Series,630d xDrive Gran Turismo,47
+105,X2,20i,260
+106,X2,18d,213
+107,X2,25i,34
+108,X2,20d,20
+109,X2,20d,20
+110,Z4,20i,401
+111,Z4,M40i,103
+112,Z4,M40i,103
+113,2 Series,220d Gran Coupe,227
+114,2 Series,218d Gran Coupe,142
+115,2 Series,M235i xDrive Gran Coupe,85
+116,2 Series,M235i xDrive Gran Coupe,85
+117,8 Series,840i xDrive Gran Coupe,185
+118,8 Series,840d xDrive Gran Coupe,130
+119,8 Series,840i xDrive Coupe,19
+120,8 Series,840i xDrive Coupe,19
+121,M5,M5,178
+122,M5,M5,178
+123,X4 M,X4 M,155
+124,X4 M,X4 M,155
+125,i3,i3,152
+126,i3,i3,152
+127,X3 M,X3 M,147
+128,X3 M,X3 M,147
+129,M2,M2,146
+130,M2,M2,146
+131,M4,M4 Coupe,115
+132,M4,M4 Convertible,16
+133,M4,M4 Convertible,16
+134,X6 M,X6 M,76
+135,X6 M,X6 M,76
+136,M8,M8 Gran Coupe,27
+137,M8,M8 Coupe,25
+138,M8,M8 Coupe,25
+139,X5 M,X5 M,43
+140,X5 M,X5 M,43
+141,i8,i8 Roadster,19
+142,i8,i8 Coupe,5
+143,i8,i8 Coupe,5
+144,M5,M5,13
+145,M5,M5,13
+146,X6 M,X6 M,4
+147,X6 M,트림별 판매량 분류 예정,2
+148,X6 M,트림별 판매량 분류 예정,2
